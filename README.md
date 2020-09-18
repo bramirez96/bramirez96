@@ -2,7 +2,8 @@
 
 Hi! My name is Brandon, and I've been programming for 10 years! I started at the age of 14, when I found a web design book in my school library. I quickly worked through its contents, and soon after taught myself CSS, Javascript, XML, PHP, and SQL online at W3Schools. In high school, I started programming on my TI-84 graphing calculator, making escape room games, roguelikes, and even a (buggy) snake clone! Needless to say, I fell in love with programming at a young age, and my curiosity and passion for learning still drive me to this day.
 
-Currently, I'm a web designer, and I love seeing how far web technology has progressed since my inception as a programmer. Here are some of my skills:
+Currently, I'm a web designer, and I love seeing how far web technology has progressed since my inception as a programmer.
+Here are some of my skills:
 
 * React applications with Redux for state management (including thunk and saga patterns)
 * Node/Express servers using PostgreSQL/Knex to persist data on a RESTful API

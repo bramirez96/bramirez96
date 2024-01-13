@@ -1,6 +1,6 @@
 # Brandon Ramirez
 
-## Software Engineer @ Issio Solutions
+## Lead Frontend Engineer @ Issio Solutions
 
 ![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=bramirez96&show_icons=true&theme=cobalt)
 

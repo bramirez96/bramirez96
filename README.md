@@ -2,7 +2,7 @@
 
 ## Former Lead Frontend Engineer @ Issio Solutions
 
-![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=bramirez96&show_icons=true&theme=cobalt)
+<!--![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=bramirez96&show_icons=true&theme=cobalt)-->
 
 ### Hi! My name is Brandon, and I've been programming for 14 years 👴
 

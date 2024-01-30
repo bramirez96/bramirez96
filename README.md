@@ -1,6 +1,6 @@
 # Brandon Ramirez
 
-## Lead Frontend Engineer @ Issio Solutions
+## Former Lead Frontend Engineer @ Issio Solutions
 
 ![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=bramirez96&show_icons=true&theme=cobalt)
 
@@ -8,7 +8,7 @@
 
 I started at the age of 14, when I found a web design book in my school library. I quickly worked through its contents, and soon after taught myself CSS, Javascript, XML, PHP, and SQL online at W3Schools 💻. In high school, I started programming on my TI-84 graphing calculator, making escape room games 🚪, roguelikes 🤺, and even a (buggy) snake clone 🐍! Needless to say, I fell in love with programming at a young age, and my curiosity and passion for learning still drive me to this day 👨‍💻. More than anything, I love seeing how far web technology has progressed 🕰 since my inception as a programmer.
 
-### Issio Solutions _(Nov 2021 - present)_
+### Issio Solutions _(Nov 2021 - February 2024)_
 
 I currently work at [Issio Solutions ⚕](https://www.issio.com), a kickass, mission-driven startup aimed at using technology to improve patient care and job satisfaction for nurses and other medical staff with cutting-edge data analytics 📊, workforce optimization 📈 tools, and automated float pool staffing 👩‍💼. Right now I'm learning the ropes, building internal tools to help our support staff respond more easily to client needs. As the project has been in development long before the indutry's widespread acceptance of modern frameworks (Typescript, React, Node/Express), the project is written with a PHP backend and a fully-compatible ES5/jQuery frontend.
 

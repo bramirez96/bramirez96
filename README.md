@@ -1,6 +1,7 @@
-# Brandon Ramirez
+# Brandon Ramirez, Full-Stack Engineer & Remote Team Lead
 
-## Former Lead Frontend Engineer @ Issio Solutions
+📒 [Check out my portfolio](https://brr.dev)  
+🧑🏻‍💻 [And my published libraries](https://github.com/brr-dev)
 
 <!--![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=bramirez96&show_icons=true&theme=cobalt)-->
 

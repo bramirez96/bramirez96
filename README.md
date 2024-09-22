@@ -1,7 +1,8 @@
 # Brandon Ramirez, Full-Stack Engineer & Remote Team Lead
 
-📒 [Check out my portfolio](https://brr.dev)  
-🧑🏻‍💻 [And my published libraries](https://github.com/brr-dev)
+View my GitHub org [brr-dev](https://github.com/brr-dev) to see the source code for my open-source packages.
+
+Check out [my portfolio](https://brr.dev) (currently under development) to see the latest updates.
 
 <!--![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=bramirez96&show_icons=true&theme=cobalt)-->
 
